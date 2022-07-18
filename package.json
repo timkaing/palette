@@ -1,0 +1,10 @@
+{
+  "name": "palette",
+  "version": "1.0.0",
+  "description": "leverages imgix's palette parameter to expose two functions: generate a color palette & determine a suitable text overlay color based on an image",
+  "main": "index.js",
+  "repository": "git@github.com:timkaing/palette.git",
+  "author": "timkaing <9059484+timkaing@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module"
+}
