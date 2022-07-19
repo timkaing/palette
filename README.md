@@ -89,7 +89,7 @@ Expected Output:
 Returns a suitable color for overlaid text based on a given image's palette. Black or White text is determined by the `average_luminance` of the image. A lighter image will benefit from dark text whereas a darker will beneit from light text.
 > Utilize the generated color palette to find the optimal text color to place on top of an image. Using a suitable color improves user acessibility when reading the text on an image.
 
-For more details on best practices when working with text over images, see Nielsan Norma Group's Article [here](https://www.nngroup.com/articles/text-over-images/).
+For more details on best practices when working with text over images, see Nielsan Norman Group's Article [here](https://www.nngroup.com/articles/text-over-images/).
 
 ### Example(s):
 ```JavaScript

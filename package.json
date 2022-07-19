@@ -1,5 +1,5 @@
 {
-    "name": "palette",
+    "name": "tk-palette",
     "version": "1.0.0",
     "description": "leverages imgix's palette parameter to expose two functions: generate a color palette & determine a suitable text overlay color based on an image",
     "main": "index.js",
