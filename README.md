@@ -13,11 +13,18 @@ A JavaScript library that leverages Imgix's `?palette` parameter to expose two f
 
 ## Installation
 
+### Testing Locally
 1. Clone the repository:
-   1. ```git clone git@github.com:timkaing/palette.git```
+   1. `git clone git@github.com:timkaing/palette.git`
 2. Install project dependencies:
    1. `yarn`
 
+### Testing via NPM
+1. Install the package:
+   1. `npm i tk-palette`
+2. In your file of choice, explicitly specify the filename in your import
+   1. `import {colorPalette, colorOverlay} from './node_modules/tk-palette/src/index.js'`
+      1. Not doing so may result in an [import error](https://bobbyhadz.com/blog/node-js-error-err-unsupported-dir-import).
 ---
 
 # Usage
