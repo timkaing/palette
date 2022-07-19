@@ -51,7 +51,7 @@ colorPalette('imgix-served-url').then(res => console.log(res))
 Input: https://assets.imgix.net/unsplash/bridge.jpg
 
 Expected Output:
-```JSON
+```
 {
   colors: [
     { red: 0.980392, hex: '#fa9e5a', blue: 0.352941, green: 0.619608 },
